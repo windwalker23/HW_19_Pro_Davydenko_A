@@ -9,7 +9,7 @@ const HAMBURGER = [
         price: 10,
         energy: 40,
     },
-]
+];
 
 const FILLER = [
     {
